@@ -62,8 +62,8 @@ int main(void)
 	for (i = 0; i < VMAX; i++) {
 		printf("%3.1f ~ : ", i / 10.0);
 		for (j = 0; j < vdist[i]; j++)
-			putchar('*');
-		putchar('\n');
+			printf("*");
+		printf("\n");
 	}
 
 	return 0;
