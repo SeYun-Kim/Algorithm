@@ -21,9 +21,21 @@
     <ClCompile Include="IntStackTest.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="Q2.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="IntQueue.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="IntStack.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="IntStack2.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="intQueue.h">
       <Filter>헤더 파일</Filter>
     </ClInclude>
   </ItemGroup>
