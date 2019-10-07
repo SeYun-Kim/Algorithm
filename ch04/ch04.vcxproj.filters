@@ -24,7 +24,16 @@
     <ClCompile Include="Q2.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="IntQueue.cpp">
+    <ClCompile Include="IntQueueTest.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="IntQueue.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Q6.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="IntDeQueue.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
@@ -36,6 +45,9 @@
       <Filter>헤더 파일</Filter>
     </ClInclude>
     <ClInclude Include="intQueue.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="IntDequeue.h">
       <Filter>헤더 파일</Filter>
     </ClInclude>
   </ItemGroup>

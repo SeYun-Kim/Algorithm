@@ -5,7 +5,7 @@
 int Intialize(IntQueue *q, int max)
 {
 	q->num = q->front = q->rear = 0;
-	if ((q->que =(int *) calloc(max, sizeof(int))) == NULL) {
+	if ((q->que =(int *)calloc(max, sizeof(int))) == NULL) {
 		q->max = 0;
 		return -1;
 	}
@@ -43,7 +43,7 @@ int Peek(const IntQueue *q, int *x)
 {
 	if (q->num <= 0)
 		return -1;
-	*x => q->que[q->front];
+	*x = q->que[q->front];
 	return 0;
 }
 
