@@ -15,11 +15,23 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="6-3.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
     <ClCompile Include="6-1.cpp">
-      <Filter>리소스 파일</Filter>
+      <Filter>소스 파일</Filter>
     </ClCompile>
     <ClCompile Include="Q2.cpp">
-      <Filter>리소스 파일</Filter>
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="6-4.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="6-5.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Q8.cpp">
+      <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
