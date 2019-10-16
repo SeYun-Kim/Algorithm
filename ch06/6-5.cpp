@@ -36,5 +36,5 @@ int main(void)
 	
 	free(x);
 
-	return 0;
+	return  0;
 }
